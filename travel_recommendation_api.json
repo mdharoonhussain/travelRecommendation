@@ -75,6 +75,12 @@
         "name": "Copacabana Beach, Brazil",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pzUosUIn5fTLiUKWrqLbtjZM8FTm08Shtg&s",
         "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      },
+      {
+        "id": 3,
+        "name": "Lotus Beach, Brazil",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITNmfXOulPTN14V6UGjM9kFKZaWO8PbXEuA&s",
+        "description": "A famous beach in Salvador, Brazil, with a nostalgic atmosphere."
       }
     ]
   }
